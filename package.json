@@ -1,0 +1,22 @@
+{
+  "name": "monster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savealldocs/monster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savealldocs/monster/issues"
+  },
+  "homepage": "https://github.com/savealldocs/monster#readme"
+}

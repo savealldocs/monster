@@ -13,8 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/savealldocs/monster.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Niraj Kumar <savealldocs.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/savealldocs/monster/issues"
   },
